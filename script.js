@@ -34,6 +34,5 @@ document.querySelector('.sprechen').onclick = () => {
     voice.pause();
     voice2.pause();
     voice3.play();
-
 }
 
